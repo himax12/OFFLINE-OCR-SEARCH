@@ -76,3 +76,27 @@ python index_builder.py path/to/folder
 - Supported file types: PDF, PNG, JPG, JPEG
 - OCR results are cached in the `indexdir` folder
 - Search results show document title and highlighted matches
+
+## Future Scope 🚀
+
+### Core Features
+
+- 🔍 **Enhanced OCR**: Improved text extraction using advanced OCR engines
+- 🧾 **Summarization**: Auto-generate document summaries using local LLMs (Mistral-7B/Phi-2)
+- 🏷️ **Smart Keywords**: Extract key topics and terms automatically
+- 🔎 **Semantic Search**: Implement vector-based similarity search
+
+### Advanced Features
+
+- ❓ **Q&A System**: Ask questions about document content
+- 📥 **Data Extraction**: Pull structured data (dates, names, amounts)
+- 📁 **Auto Classification**: Group similar documents automatically
+- 🌐 **Text Enhancement**: Fix OCR errors and support translations
+- 💬 **Natural Queries**: Search using conversational language
+- 📊 **Analytics Dashboard**: Document insights and statistics
+
+### Key Benefits
+
+- 🔐 **Fully Offline**: Uses lightweight local models
+- ⚡ **Fast Processing**: No cloud dependencies
+- 🛡️ **Private**: All data stays on your machine
